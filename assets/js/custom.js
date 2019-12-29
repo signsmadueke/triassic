@@ -4,12 +4,15 @@ $(document).ready(function () {
     $(".menu-icon").click(function () {
         var $body = $('body');
         var $nav = $('nav.main');
+        var $logo = $('#logo');
         $body.toggleClass("nav-active");
         if ($nav.hasClass('proto')) {
             $nav.removeClass('proto show-on-scroll show');
+            $logo.addClass('light');
         }
         if ((scrollTop > height * 1) && !$body.hasClass('nav-active') && !$nav.hasClass('proto')) {
             $nav.addClass('proto show-on-scroll show');
+            $logo.addClass('light');
         }
     });
 });
@@ -73,10 +76,13 @@ window.addEventListener('load', function () {
         var $nav = $('nav.main');
         var height = $nav.outerHeight();
         var scrollTop = $window.scrollTop();
+        var $logo = $('#logo');
         if ((scrollTop > height * 2) && !$('body').hasClass('nav-active')) {
             $nav.addClass('proto show-on-scroll show');
+            $logo.removeClass('light');
         } else {
             $nav.removeClass('proto show-on-scroll show');
+            $logo.addClass('light');
         }
 
     });

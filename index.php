@@ -37,7 +37,7 @@
         <div class="container" style="padding: 0px 30px;">
             <div class="align-items-center d-flex">
                 <div class="col-auto pr-0 pl-0">
-                    <div id="Logo">
+                    <div id="logo" class="light">
                         <a href="index.html">
                             <img src="assets/images/logo.svg" class="svg" alt="Logo"  >
                         </a>

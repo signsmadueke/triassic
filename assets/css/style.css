@@ -238,13 +238,13 @@ body.nav-active .nav-item:nth-child(5) {
 	/*background-color: #ffffff;*/
 }
 
-.main svg path.text {
-    fill: white;
-    transition: 1s fill 0s;
+.main #logo svg path.text {
+	transition: 1s fill 0s;
 }
 
-.proto svg path.text {
-    fill: currentColor;
+.main #logo.light svg path.text {
+    fill: white;
+    transition: 1s fill 0s;
 }
 
 #nav.main {
