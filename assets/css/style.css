@@ -302,7 +302,7 @@ body.nav-active .post-progress {
 
 .proto {
     background: white;
-    box-shadow: 0 26px 30px -14px rgba(238, 31, 65, 0.08);
+    box-shadow: 0 26px 30px -14px rgba(0, 29, 153, 0.08);
     padding: 20px 0;
     padding-top: 20px !important;
 }
@@ -647,28 +647,13 @@ body.nav-active .post-progress {
 	color: #FFFFFF;
 }
 
-#home #services a.service {
+#home #services .service {
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-#home #services a.service:hover {
-    padding: 20px !important;
-    border-color: rgba(255, 255, 255, 0.3);
-    opacity: 1;
-}
-
-#home #services a.service img,
-#home #services a.service span {
+#home #services .service img,
+#home #services .service span {
     transition: all 0.3s cubic-bezier(0.77, 0, 0.175, 1);
-}
-
-#home #services a.service:hover span {
-    color: #ff9000 !important;
-}
-
-#home #services a.service:hover img,
-#home #services a.service:hover span {
-    transform: scale(0.98);
 }
 
 #home #services .bg {
@@ -845,7 +830,7 @@ body.nav-active .post-progress {
 }
 
 #about #solutions {
-	background-color: #FAEBED;
+	background-color: #f0f3ff;
 }
 
 #about #solutions .solution {
@@ -854,7 +839,7 @@ body.nav-active .post-progress {
 }
 
 #about #solutions .solution p {
-	font-family: CircularStdBold;
+	font-family: CircularStd;
 	font-style: normal;
 	font-size: 20px;
 	line-height: 25px;
@@ -952,7 +937,7 @@ body.nav-active .post-progress {
 
 #contact #details .contactform-top {
 	height: 135px;
-	background-color: #FAEBED;
+	background-color: #f0f3ff;
 }
 
 #contact #details .contactform-top p {
@@ -1016,13 +1001,13 @@ body.nav-active .post-progress {
 #services #the-services .service {
 	opacity: 1;
     transition: all 0.3s cubic-bezier(0.77, 0, 0.175, 1);
-	/*border-left: 2px dashed rgba(238, 31, 65, 0.00);*/
+	/*border-left: 2px dashed rgba(0, 29, 153, 0.00);*/
 }
 
 #services #the-services .service:hover {
 	opacity: 1;
 	transform: translateY(-5px) scale(1.02);
-	/*border-left: 2px dashed rgba(238, 31, 65, 0.3);*/
+	/*border-left: 2px dashed rgba(0, 29, 153, 0.3);*/
 	/*border-radius: 50px;*/
 }
 
@@ -1042,7 +1027,7 @@ body.nav-active .post-progress {
 	width: 70px;
 	height: 70px;
 	border-radius: 200px;
-	background-color: rgba(238, 31, 65, 0.1);
+	background-color: rgba(0, 29, 153, 0.1);
     transition: all 0.3s cubic-bezier(0.77, 0, 0.175, 1);
 }
 
@@ -1094,7 +1079,7 @@ body.nav-active .post-progress {
 }
 
 #services #start-a-project .bg {
-	background-color: #FAEBED;
+	background-color: #f0f3ff;
 }
 
 
@@ -1109,8 +1094,9 @@ body.nav-active .post-progress {
 }
 
 #service-details #next-prev-btn a:hover {
-	background-color: #D80027;
+	background-color: #ff9000;
 	color: white;
+	opacity: 1;
 }
 
 
