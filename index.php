@@ -28,8 +28,8 @@ require_once 'inc/header.php';
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-sm-12">
-                <span class="text-sm-red">About Us</span>
-                <h1 class="mb-20">Who We Are</h1>
+                <span class="text-sm-red">Who We Are</span>
+                <h1 class="mb-20">About Us</h1>
                 <p class="mb-30">Triassic Technologies is a leading provider of IT solutions for business, education, government and healthcare organizations in Southern & West Africa. Since 2018, our team of professionals has helped customers choose the right technology products and services to best meet their unique needs. We are a Technology company that enables the Building and development of new age technology across any business system. Established in 2017.</p>
                 <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
                     <span>Get in touch</span>
@@ -53,8 +53,8 @@ require_once 'inc/header.php';
                 <img src="assets/images/company-activities.svg" class="w-75" style="max-width: 600px;" alt="">
             </div>
             <div class="col-lg-6 col-sm-12">
-                <span class="text-sm-red">About Us</span>
-                <h1 class="mb-20">Who We Are</h1>
+                <span class="text-sm-red">Who We Are</span>
+                <h1 class="mb-20">About Us</h1>
                 <p class="mb-30">Triassic Technologies is a leading provider of IT solutions for business, education, government and healthcare organizations in Southern & West Africa. Since 2018, our team of professionals has helped customers choose the right technology products and services to best meet their unique needs. We are a Technology company that enables the Building and development of new age technology across any business system. Established in 2017.</p>
                 <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
                     <span>Get in touch</span>

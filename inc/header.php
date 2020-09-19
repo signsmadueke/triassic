@@ -39,7 +39,7 @@
                 <div class="col-auto pr-0 pl-0">
                     <div id="logo" class="light">
                         <a href="index.php">
-                            <img src="assets/images/logo.svg" class="svg" alt="Logo"  >
+                            <img src="assets/images/logo.svg" class="svg" alt="Logo">
                         </a>
                     </div>
                 </div>

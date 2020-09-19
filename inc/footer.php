@@ -39,7 +39,7 @@
         <div class="align-items-start d-flex nav-contacts pb-md-50 pb-sm-50 pt-md-50 pt-sm-50 row">
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <a href="index.php">
-                    <img src="favicon.png" height="35px" alt="">
+                    <img src="assets/images/logo.svg" height="35px" alt="Logo">
                 </a>
             </div>
         </div>
