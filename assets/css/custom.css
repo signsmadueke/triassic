@@ -1,4 +1,7 @@
 /* default */
+html {
+	scroll-behavior: smooth;
+}
 body {
     font-family: CircularStd;
 }
@@ -97,10 +100,10 @@ a:hover {
     letter-spacing: 0.2em;
     text-transform: uppercase;
     opacity: 0.7;
-    padding: 12.5px 25px;
-    border: 2px white solid;
+    padding: 15px 25px;
+    border: 1px rgba(255, 255, 255, 0.4) solid;
     color: white;
-    border-radius: 50px;
+    border-radius: 10px;
     transition: all cubic-bezier(0.77, 0, 0.175, 1) .4s;
 }
 
@@ -120,14 +123,14 @@ a:hover {
 
 .red-cta {
     font-weight: bold;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    padding: 12.5px 25px;
+    padding: 18px 40px;
     border: 2px #001D99 solid;
     background-color: #001D99;
     color: white;
-    border-radius: 50px;
+    border-radius: 10px;
     transition: all cubic-bezier(0.77, 0, 0.175, 1) .4s;
 }
 
@@ -145,11 +148,11 @@ a:hover {
     font-size: 14px;
     letter-spacing: 0.15em;
     line-height: normal;
-    padding: 15px 30px;
+    padding: 18px 40px;
     text-transform: uppercase;
     background-color: white;
     color: #001D99;
-    border-radius: 50px;
+    border-radius: 10px;
 }
 
 .text-sm-red {
@@ -224,7 +227,7 @@ a:hover {
   width: 25px;
   border: 2px solid rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
-  border-radius: 6px;
+  border-radius: 4px;
   transition: all 0.3s cubic-bezier(0.77, 0, 0.175, 1);
 }
 
@@ -541,6 +544,7 @@ p {
     font-weight: lighter;
     font-size: 21px;
     line-height: 40px;
+    margin-bottom: 0;
 }
 
 /* end default */

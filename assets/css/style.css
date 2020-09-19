@@ -312,7 +312,7 @@ body.nav-active .post-progress {
 }
 
 .proto .btn.cta {
-    border: 2px rgba(0, 29, 153, 0.1) solid;
+    border: 2px rgb(0 29 153 / 0.4) solid;
     color: #001d99;
     background-color: #ffffff;
     padding: 12.5px 25px;
@@ -370,9 +370,9 @@ body.nav-active .post-progress {
 #footer .form-control {
     display: block;
     background-color: rgba(0, 0, 0, 0.25) !important;
-    border: 1px solid #D5D5D5;
+    border: 1px solid rgba(255, 255, 255, 0.4);
     box-sizing: border-box;
-    border-radius: 25px;
+    border-radius: 10px;
     width: 100%;
     padding: 15px 20px;
 }
@@ -667,17 +667,19 @@ body.nav-active .post-progress {
 
 #home #partners .partner {
 	text-align: center;
-	padding: 40px;
-	height: 170px;
-	width: 170px;
+	padding: 30px;
+	height: 100px;
+	width: 100px;
 	border-color: rgba(29, 12, 18, 0.15);
 	transition: all ease-in .3s;
 	cursor: pointer;
+	/* filter: grayscale(1); */
+	/* opacity: 0.7; */
 }
 
 #home #partners .partner:hover {
-	filter: grayscale(1);
-	opacity: 0.4;
+	/* filter: grayscale(0); */
+	/* opacity: 1; */
 }
 
 #home #partners .partner img {

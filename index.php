@@ -10,7 +10,7 @@ require_once 'inc/header.php';
             <div class="col-lg-7 col-md-10 col-sm-12">
                 <h1 class="mb-20">Enterprise Brand Development Professionals</h1>
                 <p class="mb-50">Branding, IT Services and Product Development Professionals (Professional IT services and Product Development for Enterprises of all sizes in the Private and the Public Sector).</p>
-                <a href="#" class="btn mb-20 wr-cta">
+                <a href="#footer" class="btn mb-20 wr-cta">
                     <span>Get in Touch</span>
                 </a>
             </div>
@@ -31,7 +31,7 @@ require_once 'inc/header.php';
                 <span class="text-sm-red">About Us</span>
                 <h1 class="mb-20">Who We Are</h1>
                 <p class="mb-30">Triassic Technologies is a leading provider of IT solutions for business, education, government and healthcare organizations in Southern & West Africa. Since 2018, our team of professionals has helped customers choose the right technology products and services to best meet their unique needs. We are a Technology company that enables the Building and development of new age technology across any business system. Established in 2017.</p>
-                <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#">
+                <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
                     <span>Get in touch</span>
                     <img src="assets/images/icons/arrow-right.svg" class="icon icon-pos-right" alt="arrow-right">
                 </a>
@@ -56,7 +56,7 @@ require_once 'inc/header.php';
                 <span class="text-sm-red">About Us</span>
                 <h1 class="mb-20">Who We Are</h1>
                 <p class="mb-30">Triassic Technologies is a leading provider of IT solutions for business, education, government and healthcare organizations in Southern & West Africa. Since 2018, our team of professionals has helped customers choose the right technology products and services to best meet their unique needs. We are a Technology company that enables the Building and development of new age technology across any business system. Established in 2017.</p>
-                <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#">
+                <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
                     <span>Get in touch</span>
                     <img src="assets/images/icons/arrow-right.svg" class="icon icon-pos-right" alt="arrow-right">
                 </a>
@@ -75,38 +75,42 @@ require_once 'inc/header.php';
             <div class="upline no-gutters"></div>
             <h1 class="mb-20">Services</h1>
             <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
-            <div class="">
+            <div class="mb-30">
                 <div class="align-items-center border-top border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Website Application Development</span>
+                        <p class="text-left">Website Application Development</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Brand Development</span>
+                        <p class="text-left">Brand Development</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Analytics and AI</span>
+                        <p class="text-left">Analytics and AI</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Business Consulting</span>
+                        <p class="text-left">Business Consulting</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Business Application</span>
+                        <p class="text-left">Business Application</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Managed Services</span>
+                        <p class="text-left">Managed Services</p>
                     </div>
                 </div>
             </div>
+            <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
+                <span>Get in touch</span>
+                <img src="assets/images/icons/arrow-right.svg" class="icon icon-pos-right" alt="arrow-right">
+            </a>
         </div>
     </div>
     <div class="bg-wrap">
@@ -120,38 +124,42 @@ require_once 'inc/header.php';
             <div class="upline no-gutters"></div>
             <h1 class="mb-20">Services</h1>
             <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
-            <div class="">
+            <div class="mb-30">
                 <div class="align-items-center border-top border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Website Application Development</span>
+                        <p class="text-left">Website Application Development</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Brand Development</span>
+                        <p class="text-left">Brand Development</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Analytics and AI</span>
+                        <p class="text-left">Analytics and AI</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Business Consulting</span>
+                        <p class="text-left">Business Consulting</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Business Application</span>
+                        <p class="text-left">Business Application</p>
                     </div>
                 </div>
                 <div class="align-items-center border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
-                        <span class="text-left">Managed Services</span>
+                        <p class="text-left">Managed Services</p>
                     </div>
                 </div>
             </div>
+            <a class="btn r-cta fx-btn-hidden-icon pl-0" href="#footer">
+                <span>Get in touch</span>
+                <img src="assets/images/icons/arrow-right.svg" class="icon icon-pos-right" alt="arrow-right">
+            </a>
         </div>
     </div>
     <div class="bg-wrap">
@@ -169,45 +177,17 @@ require_once 'inc/header.php';
     </div>
 
     <div class="row align-items-center">
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/schoolbytes.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/bancabc.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/zain.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/sappi.png" alt="">
-        </div>
-    </div>
-    <div class="row align-items-center">
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/oracle.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/mtn.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/fnb.png" alt="">
-        </div>
-        <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/mascom.png" alt="">
-        </div>
-    </div>
-    <div class="row align-items-center">
         <div class="align-items-center border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/techsystemsltd.png" alt="">
+            <img src="assets/images/clients/amazon.svg" alt="">
         </div>
         <div class="align-items-center border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/firs.png" alt="">
+            <img src="assets/images/clients/microsoft.svg" alt="">
         </div>
         <div class="align-items-center border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-            <img src="assets/images/clients/ncc.png" alt="">
+            <img src="assets/images/clients/greenage.svg" alt="">
         </div>
-        <div class="d-flex align-items-center col-12 col-lg-3 col-md-6 col-sm-6 partner">
-            <img src="assets/images/clients/insa.png" alt="">
+        <div class="align-items-center col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
+            <img src="assets/images/clients/sas.svg" alt="">
         </div>
     </div>
 
@@ -229,50 +209,18 @@ require_once 'inc/header.php';
         <div class="col-12">
             <div class="row align-items-center">
                 <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/schoolbytes.png" alt="">
+                    <img src="assets/images/clients/amazon.svg" alt="">
                 </div>
                 <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/bancabc.png" alt="">
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/zain.png" alt="">
-                </div>
-                <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/sappi.png" alt="">
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/oracle.png" alt="">
-                </div>
-                <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/mtn.png" alt="">
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/fnb.png" alt="">
-                </div>
-                <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/mascom.png" alt="">
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="align-items-center border-bottom border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/techsystemsltd.png" alt="">
-                </div>
-                <div class="align-items-center border-bottom col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/firs.png" alt="">
+                    <img src="assets/images/clients/microsoft.svg" alt="">
                 </div>
             </div>
             <div class="row align-items-center">
                 <div class="align-items-center border-right col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
-                    <img src="assets/images/clients/ncc.png" alt="">
+                    <img src="assets/images/clients/greenage.svg" alt="">
                 </div>
-                <div class="d-flex align-items-center col-12 col-lg-3 col-md-6 col-sm-6 partner">
-                    <img src="assets/images/clients/insa.png" alt="">
+                <div class="align-items-center col-12 col-lg-3 col-md-6 col-sm-6 d-flex partner">
+                    <img src="assets/images/clients/sas.svg" alt="">
                 </div>
             </div>
         </div>
@@ -309,58 +257,6 @@ require_once 'inc/header.php';
     </div>
 </section>
 
-<section id="blog" class="light container">
-    <div class="">
-        <div class="row align-items-center">
-            <div class="col-12 pb-50 pt-100">
-                <div class="upline no-gutters"></div>
-                <h1 class="mb-20">From Our Blog</h1>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-12 pb-lg-100 pb-md-50 pb-sm-50 post">
-                <a href="blog-post.php">
-                    <img src="assets/images/blog/post1.jpg" alt="">
-                </a>
-                <p class="date">June 6, 2019 | <a href="#" class="category">Shopping</a></p>
-                <a href="blog-post.php">
-                    <p class="name">Building Shopping in Birmingham</p>
-                </a>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 pb-lg-100 pb-md-50 pb-sm-50 post">
-                <a href="blog-post.php">
-                    <img src="assets/images/blog/post2.jpg" alt="">
-                </a>
-                <p class="date">May 9, 2019 | <a href="#" class="category">Shopping</a></p>
-                <a href="blog-post.php">
-                    <p class="name">Shopping in Birmingham Brief Awarded to RedPages</p>
-                </a>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 pb-lg-100 pb-md-50 pb-sm-50 post">
-                <a href="blog-post.php">
-                    <img src="assets/images/blog/post3.jpg" alt="">
-                </a>
-                <p class="date">April 4, 2019 | <a href="#" class="category">Shopping</a></p>
-                <a href="blog-post.php">
-                    <p class="name">5 signs you’re running on a burning eCommerce platform</p>
-                </a>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 pb-lg-100 pb-md-50 pb-sm-50 post">
-                <a href="blog-post.php">
-                    <img src="assets/images/blog/post4.jpg" alt="">
-                </a>
-                <p class="date">December 12, 2018 | <a href="#" class="category">Shopping</a></p>
-                <a href="blog-post.php">
-                    <p class="name">Thriva: Building the World’s First Preventative Health Service</p>
-                </a>
-            </div>
-        </div>
-    </div>
-
-    <div class="bg-wrap">
-        <div class="bg"></div>
-    </div>
-</section>
 </div>
 
 <?php
