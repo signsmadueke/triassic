@@ -8,7 +8,7 @@
                 <p class="mb-30">Enter your details &amp; we'll be in touch to discuss your project</p>
                 <div class="row align-items-center support">
                     <div class="col-auto pr-0">
-                        <img src="assets/images/support-guy.jpg" class="rounded-circle" alt="" style="width: 50px;">
+                        <img src="assets/images/support-guy.png" class="rounded-circle" alt="" style="width: 50px;">
                     </div>
                     <div class="col-9 row pl-0 ml-0">
                         <div class="col-12">
