@@ -37,7 +37,7 @@ require_once 'inc/header.php';
                 </a>
             </div>
             <div class="col-lg-6 col-sm-12 text-center pb-sm-50">
-                <img src="assets/images/company-activities.svg" class="w-100" alt="">
+                <img src="assets/images/company-activities.svg" class="w-100" style="max-width: 600px;" alt="">
             </div>
         </div>
     </div>
@@ -50,7 +50,7 @@ require_once 'inc/header.php';
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-sm-12 text-center pb-100 pt-50">
-                <img src="assets/images/company-activities.svg" class="w-75" alt="">
+                <img src="assets/images/company-activities.svg" class="w-75" style="max-width: 600px;" alt="">
             </div>
             <div class="col-lg-6 col-sm-12">
                 <span class="text-sm-red">About Us</span>
@@ -72,7 +72,8 @@ require_once 'inc/header.php';
     <div class="align-items-center d-lg-table d-md-flex d-sm-flex d-table-cell w-100">
         <div class="bgimage col-lg-6 col-sm-12 d-lg-table-cell d-md-block d-sm-block pl-0 pr-0 w-50"></div>
         <div class="col-lg-6 col-sm-12 d-lg-table-cell d-md-block d-sm-block pb-100 pl-50 pr-100 pt-100">
-            <div class="upline no-gutters"></div>
+            <!-- <div class="upline no-gutters"></div> -->
+            <span class="text-sm-red">What we do</span>
             <h1 class="mb-20">Services</h1>
             <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
             <div class="mb-30">
@@ -120,8 +121,10 @@ require_once 'inc/header.php';
 
 <section id="services" class="dark hidden-lg hidden-xl">
     <div class="align-items-center d-lg-flex d-md-block d-sm-block">
+        <div class="bgimage col-lg-12 col-sm-12 d-lg-table-cell d-md-block d-sm-block pl-0 pr-0 w-50" style="min-width: 100vw;"></div>
         <div class="col-lg-6 col-sm-12 pb-100 pt-100 pl-30 pr-30">
-            <div class="upline no-gutters"></div>
+            <!-- <div class="upline no-gutters"></div> -->
+            <span class="text-sm-red">What we do</span>
             <h1 class="mb-20">Services</h1>
             <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
             <div class="mb-30">
@@ -170,7 +173,8 @@ require_once 'inc/header.php';
 <section id="partners" class="light container pt-100 pb-100 hidden-md hidden-sm">
     <div class="row align-items-center">
         <div class="col-lg-8 col-md-12 col-sm-12 ml-auto mr-auto pb-lg-30 pb-md-30 text-lg-center text-md-left text-sm-left">
-            <div class="upline ml-sm-0 ml-md-0 ml-lg-auto"></div>
+            <!-- <div class="upline ml-sm-0 ml-md-0 ml-lg-auto"></div> -->
+            <span class="text-sm-red">Notable clients</span>
             <h1 class="mb-20">Our Partners</h1>
             <p class="mb-50">We leverage our domain expertise and technical knowledge to rapidly deploy cost-effective solutions customized for our customers' environments and business needs.</p>
         </div>
@@ -199,7 +203,8 @@ require_once 'inc/header.php';
 <section id="partners" class="light container pt-100 pb-100 hidden-lg hidden-xl">
     <div class="row align-items-center">
         <div class="col-lg-8 col-md-12 col-sm-12 ml-auto mr-auto pb-lg-30 pb-md-30 text-lg-center text-md-left text-sm-left">
-            <div class="upline ml-sm-0 ml-md-0 ml-lg-auto"></div>
+            <!-- <div class="upline ml-sm-0 ml-md-0 ml-lg-auto"></div> -->
+            <span class="text-sm-red">Notable clients</span>
             <h1 class="mb-20">Our Partners</h1>
             <p class="mb-50">We leverage our domain expertise and technical knowledge to rapidly deploy cost-effective solutions customized for our customers' environments and business needs.</p>
         </div>

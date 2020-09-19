@@ -92,6 +92,8 @@ a:hover {
     padding-left: 30px;
     margin-right: auto;
     margin-left: auto;
+    max-width: 1900px;
+    margin: 0 auto;
 }
 
 .cta {
@@ -101,14 +103,14 @@ a:hover {
     text-transform: uppercase;
     opacity: 0.7;
     padding: 15px 25px;
-    border: 1px rgba(255, 255, 255, 0.4) solid;
+    border: 3px rgba(255, 255, 255, 0.4) solid;
     color: white;
     border-radius: 10px;
     transition: all cubic-bezier(0.77, 0, 0.175, 1) .4s;
 }
 
 .btn.cta:hover {
-    border: 2px #ffffff solid;
+    border: 3px #ffffff solid;
     color: #000000;
     background-color: #ffffff;
     opacity: 1;
@@ -127,7 +129,7 @@ a:hover {
     letter-spacing: 0.2em;
     text-transform: uppercase;
     padding: 18px 40px;
-    border: 2px #001D99 solid;
+    border: 3px #001D99 solid;
     background-color: #001D99;
     color: white;
     border-radius: 10px;
@@ -137,7 +139,7 @@ a:hover {
 .btn.red-cta:hover,
 .btn.cta-big:hover,
 .btn.wr-cta:hover {
-    border: 2px #ff9000 solid;
+    border: 3px #ff9000 solid;
     color: #ffffff;
     background-color: #ff9000;
     opacity: 1;
@@ -159,8 +161,8 @@ a:hover {
     font-family: CircularStd;
     font-style: normal;
     font-weight: bold;
-    font-size: 11px;
-    line-height: 146.75%;
+    /* font-size: 11px; */
+    line-height: 50px;
     letter-spacing: 0.15em;
     text-transform: uppercase;
     color: #FF9000;
@@ -179,7 +181,7 @@ a:hover {
 .owl-theme .owl-dot {
     width: 15px;
     height: 15px;
-    border: 2px solid #001D99;
+    border: 3px solid #001D99;
     border-radius: 100px;
     margin-right: 30px;
 }
@@ -225,7 +227,7 @@ a:hover {
   left: 0;
   height: 25px;
   width: 25px;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 3px solid rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
   border-radius: 4px;
   transition: all 0.3s cubic-bezier(0.77, 0, 0.175, 1);
@@ -233,12 +235,12 @@ a:hover {
 
 .check:hover input ~ .checkmark {
   background-color: #001D99;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 3px solid rgba(255, 255, 255, 0.5);
 }
 
 .check input:checked ~ .checkmark {
   background-color: #001D99;
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 3px solid rgba(255, 255, 255, 0.5);
 }
 
 .checkmark:after {
@@ -1144,11 +1146,14 @@ p {
 
 
 .owl-theme .owl-dot {
-    width: 15px;
-    height: 15px;
-    border: 2px solid #001D99;
+    width: 10px;
+    height: 10px;
+    border: 3px solid #000;
     border-radius: 100px;
     margin-right: 30px;
+    transition: all ease-in-out .4s;
+    background: #021e99;
+    opacity: 0.5;
 }
 
 .owl-theme .owl-dot span {
@@ -1158,6 +1163,8 @@ p {
 .owl-theme .owl-dot.active {
     background: #001D99;
     border: none;
+    width: 50px;
+    opacity: 1;
 }
 
 
