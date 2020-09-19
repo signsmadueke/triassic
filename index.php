@@ -75,7 +75,7 @@ require_once 'inc/header.php';
             <!-- <div class="upline no-gutters"></div> -->
             <span class="text-sm-red">What we do</span>
             <h1 class="mb-20">Services</h1>
-            <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
+            <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success.</p>
             <div class="mb-30">
                 <div class="align-items-center border-top border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
@@ -126,7 +126,7 @@ require_once 'inc/header.php';
             <!-- <div class="upline no-gutters"></div> -->
             <span class="text-sm-red">What we do</span>
             <h1 class="mb-20">Services</h1>
-            <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success</p>
+            <p class="mb-50">We offer expertise in designing customized solutions and assisting customers with the implementation and long-term management of those solutions. Our approach combines a blend of thinkers, creators and doers to accelerate your business outcomes. from business consulting to analytics and AI from cloud to business applications and security, from customer experience to the modern workplace, and across multiple industries, we have the solutions to spur your success.</p>
             <div class="mb-30">
                 <div class="align-items-center border-top border-bottom row col-12 pt-20 pb-20 no-gutters service">
                     <div class="col-11 no-gutters">
